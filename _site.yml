@@ -1,0 +1,25 @@
+name: "danielle-turton-website"
+output_dir: "."
+navbar:
+  title: "Danielle Turton"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:danielle.turton@newcastle.ac.uk
+    - icon: fa-university fa-lg
+      href: http://www.ncl.ac.uk/elll/staff/profile/danielleturton.html
+    - icon: fa-github fa-lg
+      href: http://github.com/danielleturton
+    - icon: fa-google fa-lg
+      href: https://scholar.google.co.uk/citations?user=jqgniHIAAAAJ&hl=en
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/danielle-turton-30a255163/
+output:
+  html_document:
+    theme: sandstone
