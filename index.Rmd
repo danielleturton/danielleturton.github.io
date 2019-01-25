@@ -1,0 +1,13 @@
+---
+title: "Danielle Turton"
+author: "Lecturer in Phonology, Newcastle University"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<img src="img/splines.png" style="width:100%; border:1px solid; margin-right: 20px" align="center">
+
+Experimental linguist interested in language variation and change from a phonological perspective. My research uses statistical and experimental methods to examine how language external factors (like age, social class and gender) drive variation within limits set by internal structural factors.
